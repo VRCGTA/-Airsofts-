@@ -19,7 +19,7 @@
 					<Model>airsoftmicrouzi</Model>
 					<Audio>AUDIO_ITEM_FLARE_GUN</Audio>
 					<Slot>SLOT_WEAPON_AIRSOFTUZIMICRO</Slot>
-					<DamageType>ELECTRIC</DamageType>
+					<DamageType>BULLET</DamageType>
 					<Explosion>
 						<Default>DONTCARE</Default>
 						<HitCar>DONTCARE</HitCar>

@@ -19,7 +19,7 @@
 					<Model>airsoftr700</Model>
 					<Audio>AUDIO_ITEM_FLARE_GUN</Audio>
 					<Slot>SLOT_WEAPON_AIRSOFTR700</Slot>
-					<DamageType>ELECTRIC</DamageType>
+					<DamageType>BULLET</DamageType>
 					<Explosion>
 						<Default>DONTCARE</Default>
 						<HitCar>DONTCARE</HitCar>
@@ -31,7 +31,7 @@
 					<FireType>DELAYED_HIT</FireType>
 					<WheelSlot>WHEEL_SNIPER</WheelSlot>
 					<Group>GROUP_SNIPER</Group>
-					<AmmoInfo ref="AMMO_SNIPER"/>
+					<AmmoInfo ref="AMMO_SMG"/>
 					<AimingInfo ref="RIFLE_HI_BASE_STRAFE"/>
 					<ClipSize value="10"/>
 					<AccuracySpread value="5.000000"/>

@@ -19,7 +19,7 @@
 					<Model>airsoftm249</Model>
 					<Audio>AUDIO_ITEM_FLARE_GUN</Audio>
 					<Slot>SLOT_WEAPON_AIRSOFTM249</Slot>
-					<DamageType>ELECTRIC</DamageType>
+					<DamageType>BULLET</DamageType>
 					<Explosion>
 						<Default>DONTCARE</Default>
 						<HitCar>DONTCARE</HitCar>
@@ -31,7 +31,7 @@
 					<FireType>INSTANT_HIT</FireType>
 					<WheelSlot>WHEEL_SMG</WheelSlot>
 					<Group>GROUP_MG</Group>
-					<AmmoInfo ref="AMMO_MG"/>
+					<AmmoInfo ref="AMMO_SMG"/>
 					<AimingInfo ref="MG_LOW_BASE_STRAFE"/>
 					<ClipSize value="200"/>
 					<AccuracySpread value="10.000000"/>

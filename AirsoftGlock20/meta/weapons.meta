@@ -19,7 +19,7 @@
 					<Model>airsoftglock20</Model>
 					<Audio>AUDIO_ITEM_FLARE_GUN</Audio>
 					<Slot>SLOT_WEAPON_AIRSOFTGLOCK20</Slot>
-					<DamageType>ELECTRIC</DamageType>
+					<DamageType>BULLET</DamageType>
 					<Explosion>
 						<Default>DONTCARE</Default>
 						<HitCar>DONTCARE</HitCar>
@@ -31,7 +31,7 @@
 					<FireType>INSTANT_HIT</FireType>
 					<WheelSlot>WHEEL_PISTOL</WheelSlot>
 					<Group>GROUP_PISTOL</Group>
-					<AmmoInfo ref="AMMO_PISTOL"/>
+					<AmmoInfo ref="AMMO_SMG"/>
 					<AimingInfo ref="PISTOL_2H_BASE_STRAFE"/>
 					<ClipSize value="12"/>
 					<AccuracySpread value="2.000000"/>

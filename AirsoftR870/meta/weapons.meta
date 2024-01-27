@@ -19,7 +19,7 @@
 					<Model>airsoft870</Model>
 					<Audio>AUDIO_ITEM_FLARE_GUN</Audio>
 					<Slot>SLOT_WEAPON_AIRSOFTR870</Slot>
-					<DamageType>ELECTRIC</DamageType>
+					<DamageType>BULLET</DamageType>
 					<Explosion>
 						<Default>DONTCARE</Default>
 						<HitCar>DONTCARE</HitCar>
@@ -31,7 +31,7 @@
 					<FireType>INSTANT_HIT</FireType>
 					<WheelSlot>WHEEL_SHOTGUN</WheelSlot>
 					<Group>GROUP_SHOTGUN</Group>
-					<AmmoInfo ref="AMMO_SHOTGUN"/>
+					<AmmoInfo ref="AMMO_SMG"/>
 					<AimingInfo ref="RIFLE_LO_PUMP_STRAFE"/>
 					<ClipSize value="8"/>
 					<AccuracySpread value="3.000000"/>
